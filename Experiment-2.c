@@ -1,3 +1,5 @@
+// PS: WAP to implement bidirectional IPC between parent and child process by using PIPE
+
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
